@@ -7,6 +7,7 @@ I enjoy working on backend, automation, and applied machine learning.
 ## Links
 [Resume](resume.pdf)
 
+
 [Linkedin](https://www.linkedin.com/in/correy-xu-187b7a319/)
 
 
